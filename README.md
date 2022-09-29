@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rashid and I'm a Security Researcher & Software Developer, from ....</h2>
+<h2 align="left">Hi 👋! My name is Rashid and I'm a Security Researcher & Software Developer</h2>
 
 ###
 

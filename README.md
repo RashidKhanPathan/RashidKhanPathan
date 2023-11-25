@@ -116,6 +116,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=iHexCoder&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/RashidKhanPathan/RashidKhanPathan/blob/output/snake.svg" alt="Snake animation" />
 
-![Metrics](https://metrics.lecoq.io/RashidKhanPathan?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata)
+

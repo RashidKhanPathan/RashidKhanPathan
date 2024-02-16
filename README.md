@@ -9,26 +9,7 @@
 
 ###
 
-### Whoami
-```c++
-#include <iostream>
-#include <string>
 
-class WhoAmI {
-public:
-    std::string user = "RashidKhan Pathan";
-    std::string profession = "Offensive Security Researcher | Software Developer";
-};
-
-int main() {
-    WhoAmI instance;
-
-    std::cout << "User: " << instance.user << std::endl;
-    std::cout << "profession: " << instance.profession << std::endl;
-
-    return 0;
-}
-```
 ###
 
 # 💻 Tech Stack:

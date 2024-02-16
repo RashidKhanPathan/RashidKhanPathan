@@ -23,7 +23,6 @@ public:
 int main() {
     WhoAmI instance;
 
-    // Access and print the member variables
     std::cout << "User: " << instance.user << std::endl;
     std::cout << "profession: " << instance.profession << std::endl;
 
